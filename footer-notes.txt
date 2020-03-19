@@ -1,0 +1,7 @@
+this is a list of ideas for the footer:
+
+1. copyright company name + date
+2. contact info
+3. social media
+
+*added some things in the master branch*
